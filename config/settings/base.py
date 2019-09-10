@@ -49,7 +49,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'config.wsgi.application'
 
-LANGUAGE_CODE = 'de-de'
+LANGUAGE_CODE = 'en-uk'
 
 TIME_ZONE = 'Europe/Berlin'
 
